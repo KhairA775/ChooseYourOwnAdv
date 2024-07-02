@@ -1,0 +1,7 @@
+{
+  "name": "ChooseYourOwnAdventure",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
